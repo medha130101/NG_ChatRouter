@@ -1,0 +1,11 @@
+text,intent,department
+"I want to change my email address",profile_change,account_services
+"My card was charged twice, need refund",complaint,billing
+"How do I reset my password",faq,account_services
+"I'd like to update my KYC documents",profile_change,account_services
+"I want to dispute a transaction of $50",complaint,billing
+"Tell me your working hours",faq,customer_support
+"Transfer money to my savings account",transaction_query,transactions
+"Where is my refund",complaint,billing
+"Need to change my address",profile_change,account_services
+"What's the status of my loan application",general,loans
